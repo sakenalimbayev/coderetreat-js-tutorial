@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Follow the link https://nodejs.org/en/ and download \"LTS\" version",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakenalimbayev/coderetreat-js-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakenalimbayev/coderetreat-js-tutorial/issues"
+  },
+  "homepage": "https://github.com/sakenalimbayev/coderetreat-js-tutorial#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
